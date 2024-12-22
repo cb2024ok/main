@@ -34,10 +34,7 @@ Here are some of the projects I have worked on:
 <a target="_blank" href="https://flask-docs-kr.readthedocs.io/ko/latest/_images/logo-full1.png" style="display: inline-block;"><img src="https://flask-docs-kr.readthedocs.io/ko/latest/_images/logo-full1.png" alt="Flask" width="70" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="42" height="42" /></a>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a>
-
-<a target="_blank" href="https://i0.wp.com/blog.knoldus.com/wp-content/uploads/2020/06/python-django.png?resize=2048%2C683&ssl=1" style="display: inline-block;"><img src="https://i0.wp.com/blog.knoldus.com/wp-content/uploads/2020/06/python-django.png?resize=2048%2C683&ssl=1" alt="django"/></a>
-<a target="_blank" href="https://www.instagram.com/data_richard/" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram"/></a>g
+<a target="_blank" href="https://i0.wp.com/blog.knoldus.com/wp-content/uploads/2020/06/python-django.png?resize=2048%2C683&ssl=1" style="display: inline-block;"><img src="https://i0.wp.com/blog.knoldus.com/wp-content/uploads/2020/06/python-django.png?resize=2048%2C683&ssl=1" alt="git" width="70" height="42" /></a>
 
 ## Connect with Me
 
