@@ -42,6 +42,7 @@ Here are some of the projects I have worked on:
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="42" height="42" /></a>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="42" height="42" /></a>
 <a target="_blank" href="https://i0.wp.com/blog.knoldus.com/wp-content/uploads/2020/06/python-django.png?resize=2048%2C683&ssl=1" style="display: inline-block;"><img src="https://i0.wp.com/blog.knoldus.com/wp-content/uploads/2020/06/python-django.png?resize=2048%2C683&ssl=1" alt="git" width="70" height="42" /></a>
+<a target="_blank" href="https://developer.apple.com/assets/elements/icons/swift/swift-96x96_2x.png" style="display: inline-block;"><img src="https://developer.apple.com/assets/elements/icons/swift/swift-96x96_2x.png" alt="git" width="70" height="42" /></a>
 
 ## Connect with Me
 
