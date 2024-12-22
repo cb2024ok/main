@@ -28,6 +28,5 @@ Here are some of the projects I have worked on:
 ## Connect with Me
 
 - [GitHub](https://github.com/cb2024ok)
-- [LinkedIn](https://www.linkedin.com/in/cb2024ok)
 
 Thank you for visiting my profile!
