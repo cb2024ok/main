@@ -21,9 +21,16 @@
 
 Here are some of the projects I have worked on:
 
-- [Project 1](https://github.com/cb2024ok/project1): Brief description of what this project does.
-- [Project 2](https://github.com/cb2024ok/project2): Brief description of what this project does.
-- [Project 3](https://github.com/cb2024ok/project3): Brief description of what this project does.
+- 2000.3 ~ 2002.6 웹개발자 | 솔거시스템
+- 2002.7 ~ 2008.5 하나로 IDC SE | 다산정보통신
+- 2008. 07 ~ 2011. 12 CTO | 커널코어
+- 2012. 03 ~ 2015. 06 SK IDC SE | 코어데이타
+- 2015. 07 ~ 2019. 01 외부개발팀 프리랜서 | 디플럭스씨앤씨
+- 2019. 02 ~ 2020. 10. 01 IT 개발팀 | 뮤엠교육
+- 2020. 11 ~ 현재 TA | Redcaptour
+
+
+
 
 ## 📊 기술 스택
 
