@@ -12,7 +12,7 @@
 
 ## Skills
 
-- **Languages:** Python, JavaScript, Java, C++, Golang
+- **Languages:** Python, JavaScript, Java, C++, Golang, Rust (beginner since 2025)
 - **Frameworks:** Vuejs, Node.js, Django, Flask, Echo
 - **Tools:** Git, Docker, Kubernetes, VS Code
 - **Databases:** MySQL, PostgreSQL, MongoDB
