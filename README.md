@@ -1,3 +1,30 @@
+# 🦾 Project Apple-Peeler: Human-Centric Robotics
+
+> **"A journey to redefine human-robot interaction through precision and stability."**
+
+## 🌟 Philosophy
+I believe that technology should empower everyone and leave no one behind. This project aims to design a home-use robotic arm that can assist people—especially those with disabilities—in daily tasks like peeling apples. [cite: 2026-02-06, 2026-01-24]
+
+* **Stability over Speed**: Ensuring smooth and safe motion is my core priority. [cite: 2026-02-13]
+* **Open & Inclusive**: I prefer Win-Win solutions and strive to prevent market dominance by any single entity. [cite: 2026-02-06]
+
+## 🛠 Tech Stack
+* **Language**: Rust (Safe, fast, and concurrent) [cite: 2026-02-02, 2026-02-09]
+* **Hardware**: ESP32-P4 (Main Controller), RDS3225 Servos [cite: 2026-01-29, 2026-02-23]
+* **AI Integration**: Future plans for Gemini & Grok conversational interfaces [cite: 2026-02-22]
+
+## 🏗 System Architecture
+This project is modularized for maximum flexibility:
+* **[rustmultiple](https://github.com/cb2024ok/rustmultiple)** (Submodule): Core trajectory generation and Inverse Kinematics (IK) engine. [cite: 2026-02-23]
+
+## 🍎 Current Progress
+- [x] Mathematical modeling for 3-minute apple peeling trajectory. [cite: 2026-01-24, 2026-02-23]
+- [x] Data dump for shoulder and elbow joint angles via Inverse Kinematics. [cite: 2026-02-23]
+- [ ] ESP32-P4 hardware integration and PWM control implementation. [cite: 2026-01-28]
+
+<details>
+<summary><b>🇰🇷 한국어 설명 보기 (Click to expand)</b></summary>
+
 # 🚀 Chang-bae Lee
 ### "로봇의 정밀함으로 비효율을 깨고, 모두가 윈윈하는 세상을 만듭니다."
 
@@ -65,3 +92,5 @@ $$\theta_1 = \operatorname{atan2}(y, x) - \operatorname{atan2}(L_2 \sin \theta_2
 
 ---
 > "기술은 소외된 이들을 돕기 위한 도구여야 합니다." - Lee Chang-bae
+
+</details>
