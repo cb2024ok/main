@@ -42,6 +42,11 @@
 관절 각도 $1.77^{\circ}, 113.18^{\circ}$ 산출 성공.Status: 수학적 모델링 검증 완료. 
 이제 실물 RDS3225 서보 모터에 이 각도를 주입할 차례입니다! 
 
+### 📐 Mathematical Foundation
+The joint angles are calculated using the Law of Cosines:
+$$\cos \theta_2 = \frac{x^2 + y^2 - L_1^2 - L_2^2}{2 L_1 L_2}$$
+$$\theta_1 = \operatorname{atan2}(y, x) - \operatorname{atan2}(L_2 \sin \theta_2, L_1 + L_2 \cos \theta_2)$$
+
 ![Alt text](doc/armresult.png)
 
 
