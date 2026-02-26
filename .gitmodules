@@ -1,0 +1,3 @@
+[submodule "rustmultiple"]
+	path = rustmultiple
+	url = https://github.com/cb2024ok/rustmultiple.git
