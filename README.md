@@ -9,7 +9,7 @@ I am currently developing a specialized robotic arm designed to assist with dail
 
 ### 🎥 Live Demo
 ![Robot Arm Movement](./doc/final_optimized.gif)
-> *Current status: Testing joint stability and torque using RDS3225 servos.*
+> *Current status: Two RDS3225 servos with sine-interpolated smooth motion on ESP32-P4 + PCA9685. Stability test passed! 🍎.*
 
 ### 🛠 Technical Specifications
 * **MCU:** ESP32-P4 (High-performance RISC-V) [cite: 2026-01-24, 2026-01-29]
