@@ -61,13 +61,12 @@ This project is modularized for maximum flexibility:
 
 ## 📈 Ongoing Projects
 ### 🍎 [Apple Peeler Robot]
-- **Goal:** 사과를 부드럽고 일정하게 깎는 정밀 로봇 팔 구현
-- **Status:** 7.4V 전원 기반 2축 동시 제어 안정성 테스트 완료
-- **Tech:** Sine 보간법을 적용한 부드러운 가감속 제어
+* **Goal**: Implementing a precision robotic arm for smooth, consistent apple peeling.
+* **Status**: 
+  * ✅ Completed stability tests for 2-axis simultaneous control (7.4V power).
+  * ✅ Successfully calculated joint angles ($1.77^{\circ}, 113.18^{\circ}$) for coordinate $(19.0, 7.76)$.
+* **Tech**: Soft acceleration/deceleration control using **Sine Interpolation**. [cite: 2026-02-23]
 
-- UpdateIK Algorithm implemented in Rust: armbasic.rsVerification: $(19.0, 7.76)$ 좌표 입력 시, 
-관절 각도 $1.77^{\circ}, 113.18^{\circ}$ 산출 성공.Status: 수학적 모델링 검증 완료. 
-이제 실물 RDS3225 서보 모터에 이 각도를 주입할 차례입니다! 
 
 ### 📐 Mathematical Foundation
 The joint angles are calculated using the Law of Cosines:
