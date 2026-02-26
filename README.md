@@ -42,6 +42,8 @@
 관절 각도 $1.77^{\circ}, 113.18^{\circ}$ 산출 성공.Status: 수학적 모델링 검증 완료. 
 이제 실물 RDS3225 서보 모터에 이 각도를 주입할 차례입니다! 
 
+![Alt text](doc/armresult.png)
+
 
 
 ### 🎨 [Industrial Painting Solution]
