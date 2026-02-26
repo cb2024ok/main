@@ -38,6 +38,12 @@
 - **Status:** 7.4V 전원 기반 2축 동시 제어 안정성 테스트 완료
 - **Tech:** Sine 보간법을 적용한 부드러운 가감속 제어
 
+- UpdateIK Algorithm implemented in Rust: armbasic.rsVerification: $(19.0, 7.76)$ 좌표 입력 시, 
+관절 각도 $1.77^{\circ}, 113.18^{\circ}$ 산출 성공.Status: 수학적 모델링 검증 완료. 
+이제 실물 RDS3225 서보 모터에 이 각도를 주입할 차례입니다! 
+
+
+
 ### 🎨 [Industrial Painting Solution]
 - **Goal:** 균일한 도막 형성을 위한 로봇 궤적 수학 모델링
 - **Status:** 역기구학(Inverse Kinematics) 기반 직선 운동 알고리즘 설계 중
