@@ -1,51 +1,51 @@
-# Hi there, I'm cb2024ok 👋
+# 🚀 Chang-bae Lee
+### "로봇의 정밀함으로 비효율을 깨고, 모두가 윈윈하는 세상을 만듭니다."
 
-## About Me
+<p align="left">
+  <img src="https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=E43716" />
+  <img src="https://img.shields.io/badge/ESP32--P4-E7352C?style=for-the-badge&logo=espressif&logoColor=white" />
+  <img src="https://img.shields.io/badge/Robotics-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Peace-FFD700?style=for-the-badge&logo=google-keep&logoColor=black" />
+</p>
 
-저는 다양한 기술과 프로그래밍 언어에 깊은 관심을 가진 23년차 소프트웨어 엔지니어 입니다. 저는 오픈 소스 프로젝트를 배우고, 탐구하고, 기여하는 것을 좋아합니다.
-아직은 많은것이 부족하지만 꼭 필요한 사람이 되고자 노력합니다.
+---
 
-- 🌱 저는 새로운 언어에 관심이 있습니다.
-- 👯 오픈소스에도 관심이 있으며 탐고하는것을 좋아 합니다. 
-- 🤔 새로운 알고리즘이나 프레임워크가 있으면 테스트하고자 합니다.
-- 💬 2025년도 모두가 행복한 한해가 되기를 바랍니다.
+## 🦾 About Me
+안녕하세요! 저는 인간과 로봇이 평화롭게 공존하는 미래를 설계하는 **이창배**입니다.  
+기술의 혜택이 특정 기업에 집중되지 않고, **장애인을 포함한 모든 사람**에게 전달되는 '윈윈(Win-Win)' 시스템을 지향합니다.
 
-## Skills
+* 🛠️ **현재 집중하고 있는 분야:** * Rust를 이용한 고성능 임베디드 로봇 제어 (ESP32-P4)
+  * 가정용 사과 깎기 로봇 및 산업용 도장 로봇 자동화 궤적 설계
+* 🎯 **목표:** 관료 조직의 비효율을 기술적 정밀함으로 해결하고 사회적 가치 창출
+* 🤝 **협업 지향:** 오픈 소스와 AI(Gemini, Grok)를 활용한 지속 가능한 기술 개발
 
-- **Languages:** Python, JavaScript, Java, C++, Golang, Rust (beginner since 2025)
-- **Frameworks:** Vuejs, Node.js, Django, Flask, Echo
-- **Tools:** Git, Docker, Kubernetes, VS Code
-- **Databases:** MySQL, PostgreSQL, MongoDB
+---
 
-## Projects
+## 🛠 Tech Stack
+| Category | Technologies |
+| :--- | :--- |
+| **Language** | `Rust` (Safety & Stability First) |
+| **Hardware** | `ESP32-P4`, `ESP32-C6`, `PCA9685`, `RDS3225` |
+| **Robotics** | `Inverse Kinematics`, `Sine Interpolation`, `PWM Control` |
+| **AI Partners** | `Gemini 3 Flash`, `Grok` |
 
-Here are some of the projects I have worked on:
+---
 
-- 2000.3 ~ 2002.6 웹개발자 | 솔거시스템
-- 2002.7 ~ 2008.5 하나로 IDC SE | 다산정보통신
-- 2008.7 ~ 2011.12 CTO | 커널코어
-- 2012.3 ~ 2015.6 SK IDC SE | 코어데이타
-- 2015.7 ~ 2019.1 외부개발팀 프리랜서 | 디플럭스씨앤씨
-- 2019.2 ~ 2020.10 IT 개발팀 | 뮤엠교육
-- 2020.11 ~ 현재 TA | Redcaptour
+## 📈 Ongoing Projects
+### 🍎 [Apple Peeler Robot]
+- **Goal:** 사과를 부드럽고 일정하게 깎는 정밀 로봇 팔 구현
+- **Status:** 7.4V 전원 기반 2축 동시 제어 안정성 테스트 완료
+- **Tech:** Sine 보간법을 적용한 부드러운 가감속 제어
 
+### 🎨 [Industrial Painting Solution]
+- **Goal:** 균일한 도막 형성을 위한 로봇 궤적 수학 모델링
+- **Status:** 역기구학(Inverse Kinematics) 기반 직선 운동 알고리즘 설계 중
 
+---
 
+## 📫 Connect with Me
+- **GitHub Repository:** [esp32-robot](https://github.com/cb2024ok/esp32-robot)
+- **Philosophy:** Stability over Speed. Humanity over Monopoly.
 
-## 📊 기술 스택
-
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
-<a target="_blank" href="https://ddev.com/img/blog/2024/05/golang-nerd-banner.png" style="display: inline-block;"><img src="https://ddev.com/img/blog/2024/05/golang-nerd-banner.png" alt="Golang" width="70" height="42" /></a>
-<a target="_blank" href="https://i.namu.wiki/i/XpkDB7EDsaEEQrN0jextK0msimicR32hHxPtT897eietF22Q0o9B_B5jdvy8OvHIm81pKswlUsyrqLt26kv7545s7gaN06k2vJz18sbK66yZxJpnFd7rJJi0K6bskvfXyiAxt_mIZarJaIbhLsp_Pg.svg" style="display: inline-block;"><img src="https://i.namu.wiki/i/XpkDB7EDsaEEQrN0jextK0msimicR32hHxPtT897eietF22Q0o9B_B5jdvy8OvHIm81pKswlUsyrqLt26kv7545s7gaN06k2vJz18sbK66yZxJpnFd7rJJi0K6bskvfXyiAxt_mIZarJaIbhLsp_Pg.svg" alt="csharp" width="42" height="42" /></a>
-<a target="_blank" href="https://upload.wikimedia.org/wikipedia/commons/f/f1/Vue.png" style="display: inline-block;"><img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Vue.png" alt="vuejs" width="42" height="42" /></a>
-<a target="_blank" href="https://flask-docs-kr.readthedocs.io/ko/latest/_images/logo-full1.png" style="display: inline-block;"><img src="https://flask-docs-kr.readthedocs.io/ko/latest/_images/logo-full1.png" alt="Flask" width="70" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="42" height="42" /></a>
-<a target="_blank" href="https://i0.wp.com/blog.knoldus.com/wp-content/uploads/2020/06/python-django.png?resize=2048%2C683&ssl=1" style="display: inline-block;"><img src="https://i0.wp.com/blog.knoldus.com/wp-content/uploads/2020/06/python-django.png?resize=2048%2C683&ssl=1" alt="git" width="70" height="42" /></a>
-<a target="_blank" href="https://developer.apple.com/assets/elements/icons/swift/swift-96x96_2x.png" style="display: inline-block;"><img src="https://developer.apple.com/assets/elements/icons/swift/swift-96x96_2x.png" alt="git" width="42" height="42" /></a>
-
-## Connect with Me
-
-- [GitHub](https://github.com/cb2024ok)
-
-Thank you for visiting my profile!
+---
+> "기술은 소외된 이들을 돕기 위한 도구여야 합니다." - Lee Chang-bae
