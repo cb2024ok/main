@@ -12,7 +12,7 @@
 ---
 
 ## 🦾 About Me
-안녕하세요! 저는 인간과 로봇이 평화롭게 공존하는 미래를 설계하는 **이창배**입니다.  
+안녕하세요! 저는 인간과 로봇이 평화롭게 공존하는 미래를 설계하는 **맨손의마술사**입니다.  
 기술의 혜택이 특정 기업에 집중되지 않고, **장애인을 포함한 모든 사람**에게 전달되는 '윈윈(Win-Win)' 시스템을 지향합니다.
 
 * 🛠️ **현재 집중하고 있는 분야:** * Rust를 이용한 고성능 임베디드 로봇 제어 (ESP32-P4)
@@ -47,6 +47,8 @@
 ## 📫 Connect with Me
 - **GitHub Repository:** [esp32-robot](https://github.com/cb2024ok/esp32-robot)
 - **Philosophy:** Stability over Speed. Humanity over Monopoly.
+- **Contact:** ar88plus@gmail.com
+
 
 ---
 > "기술은 소외된 이들을 돕기 위한 도구여야 합니다." - Lee Chang-bae
