@@ -3,6 +3,7 @@
 
 <p align="left">
   <img src="https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=E43716" />
+  <img src="https://avatars.githubusercontent.com/u/42816656?s=48&v=4" />
   <img src="https://img.shields.io/badge/ESP32--P4-E7352C?style=for-the-badge&logo=espressif&logoColor=white" />
   <img src="https://img.shields.io/badge/Robotics-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
   <img src="https://img.shields.io/badge/Peace-FFD700?style=for-the-badge&logo=google-keep&logoColor=black" />
