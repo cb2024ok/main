@@ -1,26 +1,37 @@
-# 🦾 Project Apple-Peeler: Human-Centric Robotics
+# 🤖 Hello, I'm Lee Chang-bae (맨손의 마술사)
 
-> **"A journey to redefine human-robot interaction through precision and stability."**
+Building the future of home robotics with a focus on **stability, accessibility, and open-source collaboration.**
 
-## 🌟 Philosophy
-I believe that technology should empower everyone and leave no one behind. This project aims to design a home-use robotic arm that can assist people—especially those with disabilities—in daily tasks like peeling apples. [cite: 2026-02-06, 2026-01-24]
+---
 
-* **Stability over Speed**: Ensuring smooth and safe motion is my core priority. [cite: 2026-02-13]
-* **Open & Inclusive**: I prefer Win-Win solutions and strive to prevent market dominance by any single entity. [cite: 2026-02-06]
+## 🍎 Current Focus: Apple Peeling Robot Arm
+I am currently developing a specialized robotic arm designed to assist with daily tasks, specifically for home use and helping the disabled.
 
-## 🛠 Tech Stack
-* **Language**: Rust (Safe, fast, and concurrent) [cite: 2026-02-02, 2026-02-09]
-* **Hardware**: ESP32-P4 (Main Controller), RDS3225 Servos [cite: 2026-01-29, 2026-02-23]
-* **AI Integration**: Future plans for Gemini & Grok conversational interfaces [cite: 2026-02-22]
+### 🎥 Live Demo
+![Robot Arm Movement](./doc/final_optimized.gif)
+> *Current status: Two RDS3225 servos with sine-interpolated smooth motion on ESP32-P4 + PCA9685. Stability test passed! 🍎.*
 
-## 🏗 System Architecture
-This project is modularized for maximum flexibility:
-* **[rustmultiple](https://github.com/cb2024ok/rustmultiple)** (Submodule): Core trajectory generation and Inverse Kinematics (IK) engine. [cite: 2026-02-23]
+### 🛠 Technical Specifications
+* **MCU:** ESP32-P4 (High-performance RISC-V) [cite: 2026-01-24, 2026-01-29]
+* **Language:** Pure **Rust** (esp-hal) for memory safety and rock-solid stability [cite: 2026-02-02, 2026-02-09]
+* **Actuators:** 2x RDS3225 High Torque Servos [cite: 2026-02-23]
+* **Core Philosophy:** **Stability over Speed.** A robot that anyone can trust. [cite: 2026-02-13]
 
-## 🍎 Current Progress
-- [x] Mathematical modeling for 3-minute apple peeling trajectory. [cite: 2026-01-24, 2026-02-23]
-- [x] Data dump for shoulder and elbow joint angles via Inverse Kinematics. [cite: 2026-02-23]
-- [ ] ESP32-P4 hardware integration and PWM control implementation. [cite: 2026-01-28]
+---
+
+## 🤝 Philosophy & Vision
+* **Peace & Prosperity:** I believe in peaceful coexistence between humans and AI/Robotics. [cite: 2026-01-20]
+* **Accessibility:** Technology should never leave anyone behind, especially those with disabilities. [cite: 2026-02-06]
+* **Anti-Monopoly:** I prefer a win-win market over dominance by a single corporation. [cite: 2026-02-06]
+
+---
+
+## 📬 Connect with Me
+* **Goal:** Connecting ESP32-P4 to the Internet for seamless interaction with Gemini & Grok. [cite: 2026-02-22]
+* **LinkedIn:** *Coming Soon (Refining my global profile!)* [cite: 2026-02-26]
+
+---
+*"The magic isn't in the hands, but in the code that moves them."*
 
 <details>
 <summary><b>🇰🇷 한국어 설명 보기 (Click to expand)</b></summary>
