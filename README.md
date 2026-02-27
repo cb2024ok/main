@@ -125,4 +125,5 @@ $$\theta_1 = \operatorname{atan2}(y, x) - \operatorname{atan2}(L_2 \sin \theta_2
 
 **맨손의 마술사(Magic_Hand)** 가 부리는 로봇 마법은 이제 시작이다! ㅋ [cite: 2026-02-26]
 
+
 </details>
