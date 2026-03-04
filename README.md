@@ -130,6 +130,7 @@ $$\theta_1 = \operatorname{atan2}(y, x) - \operatorname{atan2}(L_2 \sin \theta_2
 # 🍎 RustMultiple: Precision Robotics with Rust
 
 > "방향은 속도가 아니라 안정성이다." [cite: 2026-02-13]
+
 > 20MB짜리 쿼리보다 20줄의 정밀한 코드가 세상을 바꿉니다. [cite: 2026-03-02]
 
 ## 🚀 Key Features
