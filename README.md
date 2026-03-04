@@ -24,6 +24,7 @@ I am currently developing a specialized robotic arm designed to assist with dail
 * **Accessibility:** Technology should never leave anyone behind, especially those with disabilities. [cite: 2026-02-06]
 * **Anti-Monopoly:** I prefer a win-win market over dominance by a single corporation. [cite: 2026-02-06]
 
+
 ---
 
 ## 📬 Connect with Me
@@ -124,6 +125,17 @@ $$\theta_1 = \operatorname{atan2}(y, x) - \operatorname{atan2}(L_2 \sin \theta_2
 이 수학적 확신을 바탕으로, 이제 **RDS3225** 서보 모터의 각도 제어를 위한 **역운동학(Inverse Kinematics)** 단계로 진입할 준비가 되었음. [cite: 2026-01-24, 2026-02-23]
 
 **맨손의 마술사(Magic_Hand)** 가 부리는 로봇 마법은 이제 시작이다! ㅋ [cite: 2026-02-26]
+
+
+# 🍎 RustMultiple: Precision Robotics with Rust
+
+> "방향은 속도가 아니라 안정성이다." [cite: 2026-02-13]
+> 20MB짜리 쿼리보다 20줄의 정밀한 코드가 세상을 바꿉니다. [cite: 2026-03-02]
+
+## 🚀 Key Features
+- **Gaussian Motion Profile**: iOS의 가우시안 블러 원리를 로봇 관절 제어에 이식
+- **Embedded-Friendly**: 외부 라이브러리 의존성을 최소화한 `libm` 기반의 커스텀 CDF 구현
+- **RDS3225 Optimized**: 실제 서보 모터의 물리적 특성을 고려한 S-Curve 가감속
 
 
 </details>
